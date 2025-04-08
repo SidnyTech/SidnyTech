@@ -2,7 +2,7 @@
 <div class="hero-text">
   <h1 align="center"> Hello, World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+ivancidev+👨‍💻;+Web+Application+Developer;+React+Developer;+NodeJS+Developer;+Junior+Full-Stack+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+SiAnDev+👨‍💻;+Web+Application+Developer;+React+Developer;+Junior+Full-Stack+Developer;" />
 </h1>
 
 <p align="center">
@@ -29,8 +29,6 @@
 👨‍💻 All of my projects are available at [https://github.com/SiAn20](https://github.com/SiAn20)
 
 📫 How to reach me **sidneyangellysg@gmail.com**
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### About Me 😎
 
