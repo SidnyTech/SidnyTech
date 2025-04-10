@@ -3,7 +3,6 @@
   <h1 align="center"> Hello, World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
  <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+SiAnDev+👨‍💻;+Web+Application+Developer;+React+Developer;+Junior+Full-Stack+Developer;" />
-   <img src="https://nirzak-streak-stats.vercel.app/?user=jhoelito123&theme=dark&hide_border=false"  />
 </h1>
 
 <p align="center">
@@ -11,6 +10,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SiAn20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiAn20&layout=compact&langs_count=8&theme=algolia">
   </a>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SiAn20&hide_border=false"  />
 </p>
 
 <div align="center">
