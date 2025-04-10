@@ -10,7 +10,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SiAn20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiAn20&layout=compact&langs_count=8&theme=algolia">
   </a>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SiAn20&hide_border=false"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SiAn20&theme=algolia&hide_border=false"  />
 </p>
 
 <div align="center">
