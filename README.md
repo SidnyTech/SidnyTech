@@ -15,10 +15,10 @@
 
 ## 👋 About Me
 
-<table>
-<tr>
-<td width="70%">
-  
+<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+  <tr>
+  <td style="vertical-align: top; width: 70%; padding: 0;">
+
 Hey there! I'm a passionate full-stack developer who loves building modern, user-friendly web applications. I'm always eager to learn new technologies, explore creative solutions, and help others grow in tech.
 
 - 🔭 Currently working on full-stack personal and collaborative projects.
@@ -29,11 +29,11 @@ Hey there! I'm a passionate full-stack developer who loves building modern, user
 
 ✨ Excited about everything I'm building... and everything yet to come! 🚀
 
-</td>
-<td>
-  <img src="assets/haikyu.gif" width="300px" alt="Dev GIF">
-</td>
-</tr>
+  </td>
+  <td style="padding: 0; text-align: center;">
+    <img src="assets/haikyu.gif" width="300px" alt="Dev GIF">
+  </td>
+  </tr>
 </table>
 
 ## </> Skills
@@ -95,17 +95,20 @@ Hey there! I'm a passionate full-stack developer who loves building modern, user
 
 ## 📞 Connect With Me
 
-<div align="center">
-  <img src="assets/cat.gif" width="200px" alt="cat waving" />
-</div>
-
-<p align="center">
-  <a href="mailto:sidneyangellysg@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail" /></a>
-  <a href="https://www.linkedin.com/in/sidney-angelly-sahonero-garrado-9204202b4/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin" /></a>
-  <a href="https://www.facebook.com/sidney.sg.7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook" /></a>
-  <a href="https://instagram.com/sidney_sg1205"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram" /></a>
-  <a href="https://codeforces.com/profile/SiAn01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces" /></a>
-</p>
+<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
+  <tr>
+    <td style="padding: 0; vertical-align: middle; width: 200px; text-align: center;">
+      <img src="assets/cat.gif" width="180px" alt="cat waving" />
+    </td>
+    <td style="padding: 0; vertical-align: middle; text-align: center;">
+      <a href="mailto:sidneyangellysg@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail" /></a>
+      <a href="https://www.linkedin.com/in/sidney-angelly-sahonero-garrado-9204202b4/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin" /></a>
+      <a href="https://www.facebook.com/sidney.sg.7"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook" /></a>
+      <a href="https://instagram.com/sidney_sg1205"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram" /></a>
+      <a href="https://codeforces.com/profile/SiAn01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces" /></a>
+    </td>
+  </tr>
+</table>
 
 ## 📈 Contributions
 
