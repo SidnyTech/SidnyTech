@@ -17,7 +17,9 @@
 
 <div style="overflow: hidden;">
 
-  <img src="assets/haikyu.gif" width="260px" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
+  <div  width="300px">
+    <img src="assets/haikyu.gif" width="260px" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
+  </div>
 
   <p>
     Hey there! I'm a passionate full-stack developer who loves building modern, user-friendly web applications.
@@ -95,31 +97,26 @@
 
 ## 📞 Connect With Me
 
-<div style="overflow: hidden; min-height: 160px; margin-bottom: 40px; text-align: center;">
-
-  <span style="display: inline-block; vertical-align: middle; margin-right: 20px;">
-    <img src="assets/cat.gif" width="140px" alt="cat waving" />
-  </span>
-
-  <span style="display: inline-block; vertical-align: middle; text-align: center;">
-    <a href="mailto:sidneyangellysg@gmail.com">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/sidney-angelly-sahonero-garrado-9204202b4/">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin" />
-    </a>
-    <a href="https://www.facebook.com/sidney.sg.7">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook" />
-    </a>
-    <a href="https://instagram.com/sidney_sg1205">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram" />
-    </a>
-    <a href="https://codeforces.com/profile/SiAn01">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces" />
-    </a>
-  </span>
-
+<div align="center" style="margin-bottom: 30px;">
+  <img src="assets/cat.gif" width="200px" alt="cat waving" />
+  <br/><br/>
+  <a href="mailto:sidneyangellysg@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/sidney-angelly-sahonero-garrado-9204202b4/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin" />
+  </a>
+  <a href="https://www.facebook.com/sidney.sg.7">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook" />
+  </a>
+  <a href="https://instagram.com/sidney_sg1205">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram" />
+  </a>
+  <a href="https://codeforces.com/profile/SiAn01">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces" />
+  </a>
 </div>
+
 
 ## 📈 Contributions
 
