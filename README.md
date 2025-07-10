@@ -1,7 +1,7 @@
 
 <div class="hero-text">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+SiAnDev+👨‍💻;+Web+Application+Developer;+React+Developer;+Junior+Full-Stack+Developer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+SiAnDev;+Web+Application+Developer;+React+Developer;+Junior+Full-Stack+Developer;" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SiAn20&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SiAn20&theme=blue-green&border_radius=10" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
@@ -106,6 +106,5 @@ I’m currently focusing on frontend development, practicing with JavaScript and
 
 ### Contribution
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SiAn20&theme=blue-green&border_radius=10)](https://git.io/streak-stats)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SiAn20&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiAn20&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
