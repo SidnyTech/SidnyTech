@@ -15,26 +15,24 @@
 
 ## 👋 About Me
 
-<div align="left" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  
-  <div style="flex: 1; min-width: 250px; max-width: 600px;">
-    <p>
-      Hey there! I'm a passionate full-stack developer who loves building modern, user-friendly web applications.<br><br>
-      I'm always eager to learn new technologies, explore creative solutions, and help others grow in tech.
-    </p>
-    <ul>
-      <li>🔭 Currently working on full-stack personal and collaborative projects.</li>
-      <li>💻 Comfortable with both <strong>frontend</strong> (React, TailwindCSS) and <strong>backend</strong> (NestJS, Express).</li>
-      <li>🎨 I also enjoy crafting intuitive <strong>UX/UI</strong> designs and performing <strong>testing & QA</strong>.</li>
-      <li>📚 Always learning and experimenting to sharpen my skills and stay updated.</li>
-      <li>🌐 Check out my portfolio: <a href="https://siandev.com">siandev.com</a></li>
-    </ul>
-    <p>✨ Excited about everything I'm building... and everything yet to come! 🚀</p>
-  </div>
+<div style="overflow: hidden;">
 
-  <div style="margin-left: 20px;">
-    <img src="assets/haikyu.gif" width="300px" alt="coding gif" />
-  </div>
+  <img src="assets/haikyu.gif" width="260px" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
+
+  <p>
+    Hey there! I'm a passionate full-stack developer who loves building modern, user-friendly web applications.
+    I'm always eager to learn new technologies, explore creative solutions, and help others grow in tech.
+  </p>
+
+  <ul>
+    <li>🔭 Currently working on full-stack personal and collaborative projects.</li>
+    <li>💻 Comfortable with both <strong>frontend</strong> (React, TailwindCSS) and <strong>backend</strong> (NestJS, Express).</li>
+    <li>🎨 I also enjoy crafting intuitive <strong>UX/UI</strong> designs and performing <strong>testing & QA</strong>.</li>
+    <li>📚 Always learning and experimenting to sharpen my skills and stay updated.</li>
+    <li>🌐 Check out my portfolio: <a href="https://siandev.com">siandev.com</a></li>
+  </ul>
+
+  <p>✨ Excited about everything I'm building... and everything yet to come! 🚀</p>
 
 </div>
 
@@ -97,13 +95,11 @@
 
 ## 📞 Connect With Me
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div style="display: block; text-align: center; overflow: hidden;">
 
-  <div>
-    <img src="assets/cat.gif" width="200px" alt="cat waving" />
-  </div>
+  <img src="assets/cat.gif" width="160px" align="left" style="margin-right: 20px; margin-top: 5px;" alt="cat waving" />
 
-  <div style="text-align: center;">
+  <span style="display: inline-block; vertical-align: middle; text-align: center;">
     <a href="mailto:sidneyangellysg@gmail.com">
       <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail" />
     </a>
@@ -119,9 +115,9 @@
     <a href="https://codeforces.com/profile/SiAn01">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces" />
     </a>
-  </div>
-
+  </span>
 </div>
+
 
 ## 📈 Contributions
 
