@@ -106,5 +106,6 @@ I’m currently focusing on frontend development, practicing with JavaScript and
 
 ### Contribution
 <div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SiAn20&theme=blue-green&border_radius=10)](https://git.io/streak-stats)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiAn20&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
