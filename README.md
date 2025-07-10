@@ -31,7 +31,7 @@ Hey there! I'm a passionate full-stack developer who loves building modern, user
 
 </td>
 <td>
-  <img src="assets/haikyu.gif" width="500px" alt="Dev GIF">
+  <img src="assets/haikyu.gif" width="300px" alt="Dev GIF">
 </td>
 </tr>
 </table>
