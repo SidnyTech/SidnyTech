@@ -95,9 +95,11 @@
 
 ## 📞 Connect With Me
 
-<div style="display: block; text-align: center; overflow: hidden;">
+<div style="overflow: hidden; min-height: 160px; margin-bottom: 40px; text-align: center;">
 
-  <img src="assets/cat.gif" width="160px" align="left" style="margin-right: 20px; margin-top: 5px;" alt="cat waving" />
+  <span style="display: inline-block; vertical-align: middle; margin-right: 20px;">
+    <img src="assets/cat.gif" width="140px" alt="cat waving" />
+  </span>
 
   <span style="display: inline-block; vertical-align: middle; text-align: center;">
     <a href="mailto:sidneyangellysg@gmail.com">
@@ -116,8 +118,8 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces" />
     </a>
   </span>
-</div>
 
+</div>
 
 ## 📈 Contributions
 
