@@ -15,26 +15,28 @@
 
 ## 👋 About Me
 
-<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
-  <tr>
-  <td style="vertical-align: top; width: 70%; padding: 0;">
+<div align="left" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  
+  <div style="flex: 1; min-width: 250px; max-width: 600px;">
+    <p>
+      Hey there! I'm a passionate full-stack developer who loves building modern, user-friendly web applications.<br><br>
+      I'm always eager to learn new technologies, explore creative solutions, and help others grow in tech.
+    </p>
+    <ul>
+      <li>🔭 Currently working on full-stack personal and collaborative projects.</li>
+      <li>💻 Comfortable with both <strong>frontend</strong> (React, TailwindCSS) and <strong>backend</strong> (NestJS, Express).</li>
+      <li>🎨 I also enjoy crafting intuitive <strong>UX/UI</strong> designs and performing <strong>testing & QA</strong>.</li>
+      <li>📚 Always learning and experimenting to sharpen my skills and stay updated.</li>
+      <li>🌐 Check out my portfolio: <a href="https://siandev.com">siandev.com</a></li>
+    </ul>
+    <p>✨ Excited about everything I'm building... and everything yet to come! 🚀</p>
+  </div>
 
-Hey there! I'm a passionate full-stack developer who loves building modern, user-friendly web applications. I'm always eager to learn new technologies, explore creative solutions, and help others grow in tech.
+  <div style="margin-left: 20px;">
+    <img src="assets/haikyu.gif" width="300px" alt="coding gif" />
+  </div>
 
-- 🔭 Currently working on full-stack personal and collaborative projects.
-- 💻 Comfortable with both **frontend** (React, TailwindCSS) and **backend** (NestJS, Express).
-- 🎨 I also enjoy crafting intuitive **UX/UI** designs and performing **testing & QA**.
-- 📚 Always learning and experimenting to sharpen my skills and stay updated.
-- 🌐 Check out my portfolio: [siandev.com](https://siandev.com)
-
-✨ Excited about everything I'm building... and everything yet to come! 🚀
-
-  </td>
-  <td style="padding: 0; text-align: center;">
-    <img src="assets/haikyu.gif" width="300px" alt="Dev GIF">
-  </td>
-  </tr>
-</table>
+</div>
 
 ## </> Skills
 
@@ -95,30 +97,31 @@ Hey there! I'm a passionate full-stack developer who loves building modern, user
 
 ## 📞 Connect With Me
 
-<table style="border-collapse: collapse; border-spacing: 0; width: 100%;">
-  <tr>
-    <td style="padding: 0; vertical-align: middle; width: 180px; text-align: center;">
-      <img src="assets/cat.gif" width="180px" alt="cat waving" />
-    </td>
-    <td style="padding: 0; vertical-align: middle; text-align: center;">
-      <a href="mailto:sidneyangellysg@gmail.com">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail" />
-      </a>
-      <a href="https://www.linkedin.com/in/sidney-angelly-sahonero-garrado-9204202b4/">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin" />
-      </a>
-      <a href="https://www.facebook.com/sidney.sg.7">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook" />
-      </a>
-      <a href="https://instagram.com/sidney_sg1205">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram" />
-      </a>
-      <a href="https://codeforces.com/profile/SiAn01">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 40px; flex-wrap: wrap;">
+
+  <div>
+    <img src="assets/cat.gif" width="200px" alt="cat waving" />
+  </div>
+
+  <div style="text-align: center;">
+    <a href="mailto:sidneyangellysg@gmail.com">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/sidney-angelly-sahonero-garrado-9204202b4/">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin" />
+    </a>
+    <a href="https://www.facebook.com/sidney.sg.7">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook" />
+    </a>
+    <a href="https://instagram.com/sidney_sg1205">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram" />
+    </a>
+    <a href="https://codeforces.com/profile/SiAn01">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces" />
+    </a>
+  </div>
+
+</div>
 
 ## 📈 Contributions
 
