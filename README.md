@@ -9,11 +9,11 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SiAn20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiAn20&layout=compact&langs_count=8&theme=algolia">
   </a>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SiAn20&theme=algolia&hide_border=false"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SiAn20&theme=algolia&border_radius=10" alt="GitHub Streak" /></a>
 </p>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SiAn20&theme=blue-green&border_radius=10" alt="GitHub Streak" /></a>
+  <img src="https://github-profile-trophy.vercel.app?username=SiAn20&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <div align="center">
