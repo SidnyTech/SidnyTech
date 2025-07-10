@@ -18,7 +18,7 @@
 <div style="overflow: hidden;">
 
   <div  width="300px">
-    <img src="assets/haikyu.gif" width="260px" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
+    <img src="assets/haikyuu.gif" width="260px" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
   </div>
 
   <p>
