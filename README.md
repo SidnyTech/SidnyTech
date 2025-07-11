@@ -3,12 +3,14 @@
 </h1>
 <img src="assets/banner.png" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
 
+---
+
 ## 👋 About Me
 
 <div style="overflow: hidden;">
 
   <div>
-    <img src="assets/haikyuu.gif" width="300px" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
+    <img src="assets/haikyuu.gif" width="40%" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
   </div>
 
   <p>
@@ -67,7 +69,7 @@
 ## 📞 Connect With Me
 
 <div align="center" style="margin-bottom: 30px;">
-  <img src="assets/catYuri.gif" width="180px" style="border-radius: 50%;" alt="cat waving" />
+  <img src="assets/catYuri.gif" width="25%" alt="cat waving" />
   <br/><br/>
   <a href="mailto:sidneyangellysg@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail" />
@@ -94,21 +96,9 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiAn20&layout=compact&langs_count=8&theme=algolia&border_radius=10">
   </a>
 
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="">
-    <img src="assets/orange.gif" width="50px" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
-  </picture>
-
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=SiAn20&theme=algolia&border_radius=10" alt="GitHub Streak" />
   </a>
-  <picture>
-    <source media="(max-width: 768px)" srcset="">
-    <img src="assets/orange.gif" width="50px" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
-  </picture>
-
-</div>
   
 </p>
 
@@ -118,41 +108,37 @@
 
 ## 🎓 Certifications
 
-<div style="display: flex; overflow-x: auto; padding: 10px; gap: 20px;">
-
-  <div style="min-width: 25%; text-align: center; color: white;">
-    <a href="https://platzi.com/p/sidneyangellysg/curso/2485-course/diploma/detalle/" target="_blank">
-      <img src="assets/certification/platzi.png" width="100px" style="border-radius: 12px;" alt="Cert 1" />
-      <p><strong>Backend con Node.js: API REST con Express.js</strong></p>
-    </a>
-  </div>
-
-  <div style="min-width: 25%; text-align: center; color: white;">
-    <a href="https://platzi.com/p/sidneyangellysg/curso/2556-course/diploma/detalle/" target="_blank">
-      <img src="assets/certification/platzi.png" width="100px" style="border-radius: 12px;" alt="Cert 2" />
-      <p><strong>Introducción a React Native</strong></p>
-    </a>
-  </div>
-
-  <div style="min-width: 25%; text-align: center; color: white;">
-    <a href="https://platzi.com/p/sidneyangellysg/curso/2558-course/diploma/detalle/" target="_blank">
-      <img src="assets/certification/platzi.png" width="100px" style="border-radius: 12px;" alt="Cert 3" />
-      <p><strong>React Native: Formularios, Almacenamiento y Deploy</strong></p>
-    </a>
-  </div>
-
-  <div style="min-width: 25%; text-align: center; color: white;">
-    <a href="https://platzi.com/p/sidneyangellysg/curso/2557-course/diploma/detalle/" target="_blank">
-      <img src="assets/certification/platzi.png" width="100px" style="border-radius: 12px;" alt="Cert 4" />
-      <p><strong>React Native: Manejo de Listas y Consumo de APIs</strong></p>
-    </a>
-  </div>
-
-  <div style="min-width: 25%; text-align: center; color: white;">
-    <a href="#" target="_blank">
-      <img src="assets/certification/cisco.jpg" width="100px" style="border-radius: 12px;" alt="Cert 5" />
-      <p><strong>Introducción a Redes</strong></p>
-    </a>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://platzi.com/p/sidneyangellysg/curso/2485-course/diploma/detalle/" target="_blank">
+        <img src="assets/certification/platzi.png" width="100px" alt="Cert 1" /><br/>
+        <sub><strong style="color:white;">Backend con Node.js</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://platzi.com/p/sidneyangellysg/curso/2556-course/diploma/detalle/" target="_blank">
+        <img src="assets/certification/platzi.png" width="100px" alt="Cert 2" /><br/>
+        <sub><strong style="color:white;">Intro a React Native</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://platzi.com/p/sidneyangellysg/curso/2558-course/diploma/detalle/" target="_blank">
+        <img src="assets/certification/platzi.png" width="100px" alt="Cert 3" /><br/>
+        <sub><strong style="color:white;">React Native: Forms & Deploy</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://platzi.com/p/sidneyangellysg/curso/2557-course/diploma/detalle/" target="_blank">
+        <img src="assets/certification/platzi.png" width="100px" alt="Cert 4" /><br/>
+        <sub><strong style="color:white;">React Native: Lists & APIs</strong></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#" target="_blank">
+        <img src="assets/certification/cisco.jpg" width="100px" alt="Cert 5" /><br/>
+        <sub><strong style="color:white;">Introducción a Redes</strong></sub>
+      </a>
+    </td>
+  </tr>
+</table>
