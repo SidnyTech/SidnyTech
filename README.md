@@ -1,9 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Web+Application+Developer;Design+UX/UI;Competitive+Programmer;QA+tester;Full-Stack+Enthusiast&color=00bea2" />
-</h1>
-<img src="assets/banner.png" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
-
----
+<div>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=60&duration=4000&lines=Web+Application+Developer;Design+UX/UI;Competitive+Programmer;QA+tester;Full-Stack+Enthusiast&color=00bea2" />
+  </h1>
+  <img src="assets/banner.png" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
+</div>
+<div align="center">
+  <a href = "" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-brightgreen" width="200" height="30"></a>
+</div>
 
 ## 👋 About Me
 
@@ -23,14 +26,14 @@
     <li>💻 Comfortable with both <strong>frontend</strong> (React, TailwindCSS) and <strong>backend</strong> (NestJS, Express).</li>
     <li>🎨 I also enjoy crafting intuitive <strong>UX/UI</strong> designs and performing <strong>testing & QA</strong>.</li>
     <li>📚 Always learning and experimenting to sharpen my skills and stay updated.</li>
-    <li>🌐 Check out my portfolio: <a href="https://siandev.com">siandev.com</a></li>
+    <li>🌐 Check out my projects: <a href="https://github.com/SiAn20#">SiAn20</a></li>
   </ul>
 
   <p>✨ Excited about everything I'm building... and everything yet to come! 🚀</p>
 
 </div>
 
-## </> Skills
+## </div> Skills
 
 #### 💻 Full-Stack Web Development
 
