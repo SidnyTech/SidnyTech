@@ -8,7 +8,7 @@
   <a href = "" ><img src="https://img.shields.io/badge/Website-My%20Portfolio-brightgreen" width="200" height="30"></a>
 </div>
 
-## 👋 About Me
+## 👋 About Me 
 
 <div style="overflow: hidden;">
 
@@ -30,7 +30,6 @@
   </ul>
 
   <p>✨ Excited about everything I'm building... and everything yet to come! 🚀</p>
-
 </div>
 
 ## </div> Skills
