@@ -22,12 +22,11 @@
   💻 Comfortable with both frontend (React, TailwindCSS) and backend (NestJS, Express).  
   🎨 I also enjoy crafting intuitive UX/UI designs and performing testing & QA.  
   📚 Always learning and experimenting to sharpen my skills and stay updated.  
-  🌐 Check out my projects: **[My Repositories](https://github.com/SiAn20)**, **[My Portfolio](https://tu-dominio-o-link.netlify.app)**
+  🌐 Check out my projects: **[My Repositories](https://github.com/SiAn20)**, **[My Portfolio](https://tu-dominio-o-link.netlify.app)**  
   ✨ Excited about everything I'm building... and everything yet to come! 🚀  
-
-### 💖 Support My Work
-
-If you like my projects or find them helpful, you can support me through [**GitHub Sponsors**](https://github.com/sponsors/SiAn20).
+  
+  ### 💖 Support My Work
+  If you like my projects or find them helpful, you can support me through [**GitHub Sponsors**](https://github.com/sponsors/SiAn20).
 </div>
 
 ## </div> Skills
