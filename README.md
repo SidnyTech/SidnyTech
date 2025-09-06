@@ -16,20 +16,25 @@
     <img src="assets/haikyuu.gif" width="40%" align="right" style="margin-left: 20px; margin-bottom: 10px;" alt="coding gif" />
   </div>
 
-  <p>
-    Hey there! I'm a passionate full-stack developer who loves building modern, user-friendly web applications.
-    I'm always eager to learn new technologies, explore creative solutions, and help others grow in tech.
-  </p>
+  Hey there! I'm a passionate full-stack developer who loves building modern, user-friendly web applications. I'm always eager to learn new technologies, explore creative solutions, and help others grow in tech.
 
-  <ul>
-    <li>🔭 Currently working on full-stack personal and collaborative projects.</li>
-    <li>💻 Comfortable with both <strong>frontend</strong> (React, TailwindCSS) and <strong>backend</strong> (NestJS, Express).</li>
-    <li>🎨 I also enjoy crafting intuitive <strong>UX/UI</strong> designs and performing <strong>testing & QA</strong>.</li>
-    <li>📚 Always learning and experimenting to sharpen my skills and stay updated.</li>
-    <li>🌐 Check out my projects: <a href="https://github.com/SiAn20#">SiAn20</a></li>
-  </ul>
+🔭 Currently working on full-stack personal and collaborative projects.  
+💻 Comfortable with both frontend (React, TailwindCSS) and backend (NestJS, Express).  
+🎨 I also enjoy crafting intuitive UX/UI designs and performing testing & QA.  
+📚 Always learning and experimenting to sharpen my skills and stay updated.  
+🌐 Check out my projects: **[SiAn20](https://github.com/SiAn20)**  
+✨ Excited about everything I'm building... and everything yet to come! 🚀  
 
-  <p>✨ Excited about everything I'm building... and everything yet to come! 🚀</p>
+### 💖 Support My Work
+
+If you like my projects or find them helpful, you can support me through [**GitHub Sponsors**](https://github.com/sponsors/SiAn20).  
+Your support motivates me to keep coding, creating, and sharing with the community! 🙌  
+
+### 🌐 Portfolio
+
+Want to see more of my work in action?  
+Check out my portfolio here 👉 [**My Portfolio**](https://tu-dominio-o-link.netlify.app)  
+
 </div>
 
 ## </div> Skills
