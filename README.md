@@ -18,23 +18,16 @@
 
   Hey there! I'm a passionate full-stack developer who loves building modern, user-friendly web applications. I'm always eager to learn new technologies, explore creative solutions, and help others grow in tech.
 
-🔭 Currently working on full-stack personal and collaborative projects.  
-💻 Comfortable with both frontend (React, TailwindCSS) and backend (NestJS, Express).  
-🎨 I also enjoy crafting intuitive UX/UI designs and performing testing & QA.  
-📚 Always learning and experimenting to sharpen my skills and stay updated.  
-🌐 Check out my projects: **[SiAn20](https://github.com/SiAn20)**  
-✨ Excited about everything I'm building... and everything yet to come! 🚀  
+  🔭 Currently working on full-stack personal and collaborative projects.  
+  💻 Comfortable with both frontend (React, TailwindCSS) and backend (NestJS, Express).  
+  🎨 I also enjoy crafting intuitive UX/UI designs and performing testing & QA.  
+  📚 Always learning and experimenting to sharpen my skills and stay updated.  
+  🌐 Check out my projects: **[My Repositories](https://github.com/SiAn20)**, **[My Portfolio](https://tu-dominio-o-link.netlify.app)**
+  ✨ Excited about everything I'm building... and everything yet to come! 🚀  
 
 ### 💖 Support My Work
 
-If you like my projects or find them helpful, you can support me through [**GitHub Sponsors**](https://github.com/sponsors/SiAn20).  
-Your support motivates me to keep coding, creating, and sharing with the community! 🙌  
-
-### 🌐 Portfolio
-
-Want to see more of my work in action?  
-Check out my portfolio here 👉 [**My Portfolio**](https://tu-dominio-o-link.netlify.app)  
-
+If you like my projects or find them helpful, you can support me through [**GitHub Sponsors**](https://github.com/sponsors/SiAn20).
 </div>
 
 ## </div> Skills
