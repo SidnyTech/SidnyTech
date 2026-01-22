@@ -109,10 +109,10 @@
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=SiAn20&theme=algolia&border_radius=10" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=SiAn20&theme=algolia&hide_border=false&border_radius=10" alt="GitHub Streak" />
   </a>
-  
 </p>
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiAn20&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="300" alt="activity graph" />
