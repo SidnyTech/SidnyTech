@@ -22,11 +22,11 @@
   💻 Comfortable with both frontend (React, TailwindCSS) and backend (NestJS, Express).  
   🎨 I also enjoy crafting intuitive UX/UI designs and performing testing & QA.  
   📚 Always learning and experimenting to sharpen my skills and stay updated.  
-  🌐 Check out my projects: **[My Repositories](https://github.com/SiAn20)**, **[My Portfolio](https://tu-dominio-o-link.netlify.app)**  
+  🌐 Check out my projects: **[My Repositories](https://github.com/SidnyTech)**, **[My Portfolio](https://tu-dominio-o-link.netlify.app)**  
   ✨ Excited about everything I'm building... and everything yet to come! 🚀  
   
   ### 💖 Support My Work
-  If you like my projects or find them helpful, you can support me through [**GitHub Sponsors**](https://github.com/sponsors/SiAn20).
+  If you like my projects or find them helpful, you can support me through [**GitHub Sponsors**](https://github.com/sponsors/SidnyTech).
 </div>
 
 ## </div> Skills
@@ -103,17 +103,17 @@
 ## 📈 Github Stats
 
 <p align="center">
-  <a href="https://github.com/SiAn20">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SiAn20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SiAn20&layout=compact&langs_count=8&theme=algolia&border_radius=10">
+  <a href="https://github.com/SidnyTech">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SidnyTech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SidnyTech&layout=compact&langs_count=8&theme=algolia&border_radius=10">
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=SiAn20&theme=algolia&hide_border=false&border_radius=10" alt="GitHub Streak" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=SidnyTech&theme=algolia&hide_border=false&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
 
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SiAn20&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="300" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SidnyTech&radius=16&theme=github-dark&area=true&order=5&hide_border=false" height="300" alt="activity graph" />
 </div>
