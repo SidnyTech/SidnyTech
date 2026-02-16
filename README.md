@@ -92,10 +92,10 @@
   <a href="https://www.facebook.com/sidney.sg.7">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook" />
   </a>
-  <a href="instagram.com/sidny.tech">
+  <a href="https://www.instagram.com/sidny.tech/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram" />
   </a>
-  <a href="tiktok.com/@sidny.tech">
+  <a href="https://www.tiktok.com/@sidny.tech">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="42" height="30" alt="tiktok" />
   </a>
 </div>
