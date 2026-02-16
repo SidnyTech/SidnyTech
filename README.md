@@ -80,22 +80,22 @@
   <a href="mailto:sidneyangellysg@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/sidney-angelly-sahonero-garrado-9204202b4/">
+  <a href="linkedin.com/in/sidney-sahonero">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin" />
   </a>
   <a href="https://codeforces.com/profile/SiAn01">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="42" height="30" alt="codeforces" />
   </a>
-  <a href="https://youtube.com/@sidny-g9o?si=sUWJrN-hMgNJE6q1">
+  <a href="https://www.youtube.com/@SidnyTech">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube" />
   </a>
   <a href="https://www.facebook.com/sidney.sg.7">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="42" height="30" alt="facebook" />
   </a>
-  <a href="https://instagram.com/sidney_sg1205">
+  <a href="instagram.com/sidny.tech">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram" />
   </a>
-  <a href="https://www.tiktok.com/@jeudjfjje1?is_from_webapp=1&sender_device=pc">
+  <a href="tiktok.com/@sidny.tech">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" width="42" height="30" alt="tiktok" />
   </a>
 </div>
